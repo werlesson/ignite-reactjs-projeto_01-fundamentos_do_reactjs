@@ -8,4 +8,4 @@ Repositório para práticas e aprendizado do projeto 01 da trilha ignite de Reac
 ## Deploy
 
 ### Vercel
-[Acessar link](ignite-reactjs-projeto-01-fundamentos-do-reactjs)
+[Acessar link](https://ignite-reactjs-projeto-01-fundamentos-do-reactjs.vercel.app/)
